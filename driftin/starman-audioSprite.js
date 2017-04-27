@@ -1,5 +1,5 @@
 function starmanSprite() {
-  this.audio = new Audio("https://kaloncpu57.github.io/io-scripts/starman-sprite.mp3");
+  this.audio = new Audio("https://kaloncpu57.github.io/io-scripts/driftin/starman-sprite.mp3");
   var a = this.audio;
   var end = 0;
 
